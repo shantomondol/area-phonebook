@@ -86,5 +86,16 @@ const userData = [
     detail: "সকল প্রকার চাল পাইকারি ও খুচরা বিক্রেতা কেন্দ্র।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 11,
+    photo: "../cdn/enterprise/wholesale-store.png",
+    name: "চয়েজ এন্টারপ্রাইজ",
+    number: "01613317431",
+    wordNo: "৭",
+    location: "আলীগন্জ (আতিক সাহেবের বাড়ি)",
+    detail: "01842317431 <br>choicenterprize@gmail.com <br>পাইকারী বিক্রেতা/সরবারহকারী টিস্যু ফুড & বেভারেজ পুরাতন গাড়ি ক্রয়/বিক্রয় এবং ইমারতি মাল বিক্রেতা ও সরবারহ কারী।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];

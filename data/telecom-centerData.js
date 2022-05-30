@@ -118,5 +118,16 @@ const userData = [{
         detail: "eftyhossain7@gmail.com<br> মোবাইল ব্যাংকিং এর সকল সেবা, মোবাইল এক্সেসরিজ, এলপিজি গ্যাস এর সেবা প্রধান করা হয়।",
         postLink: "mailto:eftyhossain7@gmail.com",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+    },
+    {
+        id: 12,
+        photo: "../cdn/telecom-center/telecom-center.png",
+        name: "তাক্বওয়া এন্টারপ্রাইজ ",
+        number: "01767821130",
+        wordNo: "৬",
+        location: "পাগলা বাজার আফিয়া মসজিদ সংলগ্ন",
+        detail: "mdarefinislam86@gmail.com<br> বিকাশ, নগদ, রকেট ও ফেক্সিলোড করা হয়। এবং চার্জার, হেডফোন ইত্যাদি বিক্রয় করা হয়।",
+        postLink: "mailto:mdarefinislam86@gmail.com",
+        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     }
 ];
