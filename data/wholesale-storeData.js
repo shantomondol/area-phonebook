@@ -89,7 +89,7 @@ const userData = [
   },
   {
     id: 11,
-    photo: "../cdn/enterprise/wholesale-store.png",
+    photo: "../cdn/wholesale-store/wholesale-store.png",
     name: "চয়েজ এন্টারপ্রাইজ",
     number: "01613317431",
     wordNo: "৭",
