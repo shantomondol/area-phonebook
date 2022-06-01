@@ -575,6 +575,10 @@ const categoryData = [
         {
           name: "মোটর মিস্ত্রী",
           link: "motor-mechanic"
+        },
+        {
+          name: "তালা-চাবি মিস্ত্রী",
+          link: "motor-mechanic"
         }
       ]
   },

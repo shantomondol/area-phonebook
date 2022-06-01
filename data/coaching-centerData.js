@@ -108,5 +108,16 @@ const userData = [
     detail: "বিবিএ অনার্সের (একাউন্টিং, ফিন্যান্স, বিজনেস ম্যাথ, পরিসংখ্যান, ম্যানেজমেন্ট একাউন্টিং ইত্যাদি) বিষয় সমূহ পড়ানো হয়।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FQuantumAC2016%2Fvideos%2F2886614154955179%2F&width=500&show_text=false&height=282&appId"
+  },
+  {
+    id: 11,
+    photo: "../cdn/coaching-center/coaching-center.png",
+    name: "Independent English",
+    number: "01677050544",
+    wordNo: "৬",
+    location: "নয়ামাটি কেন্দ্রীয় মসজিদ সংলগ্ন",
+    detail: "ষষ্ঠ শ্রেণি থেকে ইন্টারমিডিয়েট পর্যন্ত ইংরেজি পড়ানো হয় পাশাপাশি স্পকেন ইংলিশ ক্লাস করানো হয়।",
+    postLink: "http://fb.com/areaPhonebook",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FQuantumAC2016%2Fvideos%2F2886614154955179%2F&width=500&show_text=false&height=282&appId"
   }
 ];

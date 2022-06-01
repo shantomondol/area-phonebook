@@ -22,6 +22,12 @@ const categoryData = [
       photo: "../resources/icons/mechanic/motor-mechanic.png",
       name: "মোটর মিস্ত্রী",
       link: "motor-mechanic"
+    },
+    {
+      id: 5,
+      photo: "../resources/icons/mechanic/lock-key-mechanic.png",
+      name: "তালা-চাবি মিস্ত্রী",
+      link: "lock-key-mechanic"
     }
   ];
   

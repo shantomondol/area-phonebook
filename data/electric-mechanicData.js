@@ -26,7 +26,7 @@ const userData = [{
         name: "মোঃ ইকবাল হোসেন",
         number: "01957558560",
         wordNo: "৫",
-        location: "শরীফ, শাহী-মহল্লা",
+        location: "শরিফবাগ, শাহী-মহল্লা",
         detail: "বাড়ির ওয়ারিং, বাড়ির সকল ধরনের ইলেকট্রিক কাজ, যাবতীয় ইলেকট্রিক জিনিস ফ্রিজ, ফ্যান, ইলেকট্রিক মটর, সাবমারসির্বল পাম্প যত্ন সহকারে বাড়িতে গিয়ে মেরামত করা হয়।",
         postLink: "https://www.facebook.com/profile.php?id=100011412449754",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"

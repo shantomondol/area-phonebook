@@ -50,7 +50,7 @@ const userData = [
     number: "01687014219",
     wordNo: "৬",
     location: "এ এস এম সুপার মার্কেট, পাগলা",
-    detail: "দাঁতের ডাক্তার বসে,<br> ডাক্তার বসেনঃ দুপুর ৩ টা থেকে ৯টা পর্যন্ত।",
+    detail: "আঁকা-বাঁকা ও উঁচু-নিঁচু দাঁতের চিকিৎসা সহ দাঁত ও মুখে সকল সমস্যার সমাধান করে প্রিয়জনকে উপহার দিন আপনার সুন্দর-প্রাণবন্ত হাসি। দাঁতের ডাক্তার বসে,<br> ডাক্তার বসেনঃ দুপুর ৩ টা থেকে ৯টা পর্যন্ত।",
     postLink: "http://fb.com/areaPhonebook",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
