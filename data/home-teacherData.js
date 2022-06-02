@@ -51,7 +51,7 @@ const userData = [
     wordNo: "৬",
     location: "পশ্চিম নন্দলালপুর, প্রাপ্তি সিটি",
     detail: "১ম শ্রেনী থেকে ৫ম শ্রেনী সব বিষয় এবং ৬ষ্ঠ থেকে ১০ম পর্যন্ত ইংরেজি এবং কমার্সের সাবজেক্ট গুলো পড়ানো হয়।",
-    postLink: "http://fb.com/areaPhonebook",
+    postLink: "https://www.facebook.com/AreaPhonebook/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -73,7 +73,7 @@ const userData = [
     wordNo: "৫",
     location: "শরীফবাগ",
     detail: "ষষ্ঠ থেকে দশম (সকল সাবজেক্ট) এবং একাদশ - দ্বাদশ (পদার্থ,রসায়ন,জীববিজ্ঞান) বাসায় গিয়ে বিশেষভাবে যত্ন সহকারে পড়ানো হয়।",
-    postLink: "http://fb.com/areaPhonebook",
+    postLink: "https://www.facebook.com/AreaPhonebook/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -139,7 +139,7 @@ const userData = [
     wordNo: "৬",
     location: "নয়ামাটি, পাগলা স্কুল সংলগ্ন",
     detail: "Tanzidaakter24@gmail.com <br>অষ্টম, নবম ও দশম শ্রেণির বিজ্ঞান বিষয় পড়ানো হয়।",
-    postLink: "http://fb.com/areaPhonebook",
+    postLink: "https://www.facebook.com/AreaPhonebook/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];

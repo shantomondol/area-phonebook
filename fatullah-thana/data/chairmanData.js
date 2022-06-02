@@ -17,7 +17,7 @@ const userData = [{
         wordNo: "সমগ্র ফতুল্লা",
         location: "ফতুল্লা",
         detail: "ইউপি চেয়ারম্যান ফতুল্লা ইউনিয়ন।",
-        postLink: "http://fb.com/areaPhonebook",
+        postLink: "https://www.facebook.com/AreaPhonebook/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -28,7 +28,7 @@ const userData = [{
         wordNo: "সমগ্র এনায়েতনগর",
         location: "এনায়েতনগর",
         detail: "ইউপি চেয়ারম্যান এনায়েতনগর ইউনিয়ন।",
-        postLink: "http://fb.com/areaPhonebook",
+        postLink: "https://www.facebook.com/AreaPhonebook/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -39,7 +39,7 @@ const userData = [{
         wordNo: "সমগ্র কাশিপুর",
         location: "কাশিপুর",
         detail: "ইউপি চেয়ারম্যান কাশিপুর ইউনিয়ন।",
-        postLink: "http://fb.com/areaPhonebook",
+        postLink: "https://www.facebook.com/AreaPhonebook/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -50,7 +50,7 @@ const userData = [{
         wordNo: "সমগ্র বক্তবলী",
         location: "বক্তবলী",
         detail: "ইউপি চেয়ারম্যান বক্তবলী ইউনিয়ন।",
-        postLink: "http://fb.com/areaPhonebook",
+        postLink: "https://www.facebook.com/AreaPhonebook/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     }
 ];

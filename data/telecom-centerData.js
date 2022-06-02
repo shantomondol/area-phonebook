@@ -6,7 +6,7 @@ const userData = [{
         wordNo: "৪",
         location: "নুরবাগ ভুইগড় রোড, নুরবাগ",
         detail: "বিকাশ, রকেট এবং নিত্য প্রয়োজনীয় ইলেকট্রিক পন্য পাওয়া যায়।",
-        postLink: "http://fb.com/areaPhonebook",
+        postLink: "https://www.facebook.com/AreaPhonebook/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -17,7 +17,7 @@ const userData = [{
         wordNo: "৪",
         location: "কুসুমবাগ",
         detail: "Dutch-Bangla bank agent banking service.",
-        postLink: "http://fb.com/areaPhonebook",
+        postLink: "https://www.facebook.com/AreaPhonebook/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -61,7 +61,7 @@ const userData = [{
         wordNo: "৫",
         location: "শাহী বাজার, আমতলা মোড়",
         detail: "লাইব্রেরী সকল কিছু, ফোটো কপি, প্রিন্টিং এবং বিকাশ, নগদ মোবাইল ব্যাংকিং এর সকল সেবা দেওয়া হয়।",
-        postLink: "http://fb.com/areaPhonebook",
+        postLink: "https://www.facebook.com/AreaPhonebook/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -72,7 +72,7 @@ const userData = [{
         wordNo: "৬",
         location: "নয়ামাটি",
         detail: "কম্পিউটার প্রশিক্ষণ ফটোকপি বিকাশ, রকেট, নগদ রিচার্জ ও অনলাইন এর কাজ করা হয়।",
-        postLink: "http://fb.com/areaPhonebook",
+        postLink: "https://www.facebook.com/AreaPhonebook/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -83,7 +83,7 @@ const userData = [{
         wordNo: "৬",
         location: "প্যারাডাইস সিটি, রেল স্টেশনের পশ্চিম পাশে",
         detail: "Aziulhaque4846@gmail.com<br> বিকাশ, নগদ, রকেট, মোবাইল রিচার্জ, কার্ড মিটার রিচার্জ, চার্জার, হেডফোন, ব্যাটারি ইত্যাদি পাওয়া যায়।",
-        postLink: "http://fb.com/areaPhonebook",
+        postLink: "https://www.facebook.com/AreaPhonebook/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -94,7 +94,7 @@ const userData = [{
         wordNo: "৬",
         location: "নাককাটা বাড়ি ব্রিজ সংলগ্ন",
         detail: "hridoy695@gmail.com<br> মোবাইল সার্ভিসিং, মোবাইলের সকল যন্ত্রপাতি, মোবাইল লোড ইত্যাদি করা হয়।",
-        postLink: "http://fb.com/areaPhonebook",
+        postLink: "https://www.facebook.com/AreaPhonebook/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {

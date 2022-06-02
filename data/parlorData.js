@@ -7,7 +7,7 @@ const userData = [
     wordNo: "৫",
     location: "উত্তর শাহী-মহল্লা",
     detail: "বিউটি পার্লার ও কসমেটিক্স এর দোকান।",
-    postLink: "http://fb.com/areaPhonebook",
+    postLink: "https://www.facebook.com/AreaPhonebook/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -18,7 +18,7 @@ const userData = [
     wordNo: "৫",
     location: "ওয়ায়েস করনী আদর্শ নগর",
     detail: "হারবাল বিউটি পার্লার এন্ড কসমেটিক সেন্টার।",
-    postLink: "http://fb.com/areaPhonebook",
+    postLink: "https://www.facebook.com/AreaPhonebook/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -29,7 +29,7 @@ const userData = [
     wordNo: "৬",
     location: "রসুলপুর জসিম মার্কেট সংলগ্ন",
     detail: "Women beauty salon & Spa.",
-    postLink: "http://fb.com/areaPhonebook",
+    postLink: "https://www.facebook.com/AreaPhonebook/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -73,7 +73,7 @@ const userData = [
     wordNo: "৬",
     location: "পশ্চিম রসুলপুর, ভাংগাপুল মসজিদ সংলগ্ন",
     detail: "syasmin7839@gmail.com <br>অতি যত্ন সহকারে যে কোনো ধরনের সৌন্দর্য চর্চার কাজ করা হয়।<br> ফেসিয়াল, স্পা, রিবন্ডিং, পার্টি সাজ, বৌ সাজ, মেনিকিওর, পেডিকিওর সহ যাবতীয় রুপচর্চার কাজ করা হয়।",
-    postLink: "http://fb.com/areaPhonebook",
+    postLink: "https://www.facebook.com/AreaPhonebook/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {

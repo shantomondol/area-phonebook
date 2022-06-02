@@ -7,7 +7,7 @@ const userData = [
     wordNo: "সমগ্র কাশিপুর",
     location: "কাশিপুর",
     detail: "ইউপি চেয়ারম্যান কাশিপুর ইউনিয়ন।",
-    postLink: "http://fb.com/areaPhonebook",
+    postLink: "https://www.facebook.com/AreaPhonebook/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -18,7 +18,7 @@ const userData = [
     wordNo: "১, ২, ৩",
     location: "#",
     detail: "কাশিপুর ইউনিয়ন পরিষদের মহিলা মেম্বার। ওয়ার্ড নং:- ১, ২, ৩",
-    postLink: "http://fb.com/areaPhonebook",
+    postLink: "https://www.facebook.com/AreaPhonebook/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -29,7 +29,7 @@ const userData = [
     wordNo: "১",
     location: "#",
     detail: "কাশিপুর ইউনিয়ন পরিষদের মেম্বার। ওয়ার্ড নং:- ১",
-    postLink: "http://fb.com/areaPhonebook",
+    postLink: "https://www.facebook.com/AreaPhonebook/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -40,7 +40,7 @@ const userData = [
     wordNo: "২",
     location: "#",
     detail: "কাশিপুর ইউনিয়ন পরিষদের মেম্বার। ওয়ার্ড নং:- ২",
-    postLink: "http://fb.com/areaPhonebook",
+    postLink: "https://www.facebook.com/AreaPhonebook/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -51,7 +51,7 @@ const userData = [
     wordNo: "৩",
     location: "#",
     detail: "কাশিপুর ইউনিয়ন পরিষদের মহিলা মেম্বার। ওয়ার্ড নং:- ৩",
-    postLink: "http://fb.com/areaPhonebook",
+    postLink: "https://www.facebook.com/AreaPhonebook/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -62,7 +62,7 @@ const userData = [
     wordNo: "৪, ৫, ৬",
     location: "#",
     detail: "কাশিপুর ইউনিয়ন পরিষদের মেম্বার। ওয়ার্ড নং:- ৪, ৫, ৬",
-    postLink: "http://fb.com/areaPhonebook",
+    postLink: "https://www.facebook.com/AreaPhonebook/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -73,7 +73,7 @@ const userData = [
     wordNo: "৪",
     location: "#",
     detail: "কাশিপুর ইউনিয়ন পরিষদের মেম্বার। ওয়ার্ড নং:- ৪",
-    postLink: "http://fb.com/areaPhonebook",
+    postLink: "https://www.facebook.com/AreaPhonebook/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -84,7 +84,7 @@ const userData = [
     wordNo: "৫",
     location: "#",
     detail: "কাশিপুর ইউনিয়ন পরিষদের মেম্বার। ওয়ার্ড নং:- ৫",
-    postLink: "http://fb.com/areaPhonebook",
+    postLink: "https://www.facebook.com/AreaPhonebook/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },    
   {
@@ -95,7 +95,7 @@ const userData = [
     wordNo: "৬",
     location: "#",
     detail: "কাশিপুর ইউনিয়ন পরিষদের মহিলা মেম্বার। ওয়ার্ড নং:- ৬",
-    postLink: "http://fb.com/areaPhonebook",
+    postLink: "https://www.facebook.com/AreaPhonebook/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },    
   {
@@ -106,7 +106,7 @@ const userData = [
     wordNo: "৭, ৮, ৯",
     location: "#",
     detail: "কাশিপুর ইউনিয়ন পরিষদের মহিলা মেম্বার। ওয়ার্ড নং:- ৭, ৮, ৯",
-    postLink: "http://fb.com/areaPhonebook",
+    postLink: "https://www.facebook.com/AreaPhonebook/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },    
   {
@@ -117,7 +117,7 @@ const userData = [
     wordNo: "৭",
     location: "#",
     detail: "কাশিপুর ইউনিয়ন পরিষদের মেম্বার। ওয়ার্ড নং:- ৭",
-    postLink: "http://fb.com/areaPhonebook",
+    postLink: "https://www.facebook.com/AreaPhonebook/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },    
   {
@@ -128,7 +128,7 @@ const userData = [
     wordNo: "৮",
     location: "#",
     detail: "কাশিপুর ইউনিয়ন পরিষদের মেম্বার। ওয়ার্ড নং:- ৮",
-    postLink: "http://fb.com/areaPhonebook",
+    postLink: "https://www.facebook.com/AreaPhonebook/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
   {
@@ -139,7 +139,7 @@ const userData = [
     wordNo: "৯",
     location: "#",
     detail: "কাশিপুর ইউনিয়ন পরিষদের মেম্বার। ওয়ার্ড নং:- ৯",
-    postLink: "http://fb.com/areaPhonebook",
+    postLink: "https://www.facebook.com/AreaPhonebook/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
