@@ -43,17 +43,17 @@ const userData = [
     postLink: "https://www.facebook.com/AreaPhonebook/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
-  {
-    id: 5,
-    photo: "../cdn/sanitary-hardware-and-electric/allahar-dan-electronic-hardware.jpg",
-    name: "আল্লাহর দান ইলেকট্রনিক, হার্ডওয়ার",
-    number: "01922444913",
-    wordNo: "৬",
-    location: "ভাঙ্গাপুল, রসুলপুর",
-    detail: "এখানে ইলেকট্রনিক এবং হার্ডওয়ার এর সকল পন্য পাওয়া যায় ওয়ালটন এবং ভীসণ এর সকল পন্য পাওয়া যায়।",
-    postLink: "https://www.facebook.com/AreaPhonebook/",
-    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
-  },
+  // {
+  //   id: 5,
+  //   photo: "../cdn/sanitary-hardware-and-electric/allahar-dan-electronic-hardware.jpg",
+  //   name: "আল্লাহর দান ইলেকট্রনিক, হার্ডওয়ার",
+  //   number: "01922444913",
+  //   wordNo: "৬",
+  //   location: "ভাঙ্গাপুল, রসুলপুর",
+  //   detail: "এখানে ইলেকট্রনিক এবং হার্ডওয়ার এর সকল পন্য পাওয়া যায় ওয়ালটন এবং ভীসণ এর সকল পন্য পাওয়া যায়।",
+  //   postLink: "https://www.facebook.com/AreaPhonebook/",
+  //   videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  // },
   {
     id: 6,
     photo: "../cdn/sanitary-hardware-and-electric/m.a-mannan-hardware.jpg",
