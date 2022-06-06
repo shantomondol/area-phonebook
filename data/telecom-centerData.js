@@ -122,12 +122,45 @@ const userData = [{
     {
         id: 12,
         photo: "../cdn/telecom-center/telecom-center.png",
-        name: "তাক্বওয়া এন্টারপ্রাইজ ",
+        name: "তাক্বওয়া এন্টারপ্রাইজ",
         number: "01767821130",
         wordNo: "৬",
         location: "পাগলা বাজার আফিয়া মসজিদ সংলগ্ন",
         detail: "mdarefinislam86@gmail.com<br> বিকাশ, নগদ, রকেট ও ফেক্সিলোড করা হয়। এবং চার্জার, হেডফোন ইত্যাদি বিক্রয় করা হয়।",
         postLink: "mailto:mdarefinislam86@gmail.com",
+        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+    },
+    {
+        id: 13,
+        photo: "../cdn/telecom-center/telecom-center.png",
+        name: "সাদিয়া টেলিকম",
+        number: "01601005090",
+        wordNo: "৯",
+        location: "শিয়ারচর",
+        detail: "টাকা লোড এবং সকল ধরনের মোবাইল ফোন ও সকল ধরনের চার্জার পাওয়া যায়।",
+        postLink: "https://www.facebook.com/people/Saiful-Khan/100011010276253/",
+        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+    },
+    {
+        id: 14,
+        photo: "../cdn/telecom-center/telecom-center.png",
+        name: "Brothers Telecom",
+        number: "01629258771",
+        wordNo: "৪",
+        location: "কুসুমবাগ",
+        detail: "বিকাশ, ফ্লেক্সিলোড, নগদ, উপায় এবং অনলাইনের সব ধরনের কাজ করা হয়।",
+        postLink: "mailto:Brotherstelecom8771@gmail.com",
+        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+    },
+    {
+        id: 15,
+        photo: "../cdn/telecom-center/telecom-center.png",
+        name: "ফারুক টেলিকম",
+        number: "01610209080",
+        wordNo: "৬",
+        location: "পাগলা রেলস্টেশন সংলগ্ন",
+        detail: "বিকাশ, নগদ, রকেট, উপায়, জিপি লোড, বাংলালিংক লোড, এয়ারটেল লোড, রবি লোড ও টেলিটক লোড করা হয়। সকল প্রকার সিম বিক্রি করা হয় ও সকল প্রকার সিম রিপ্লেসমেন্ট করা যায়।",
+        postLink: "https://www.facebook.com/AreaPhonebook/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     }
 ];

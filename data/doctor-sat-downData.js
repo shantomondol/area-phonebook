@@ -130,5 +130,16 @@ const userData = [
     detail: "ডাক্তার বসে চোখের, মেডিসিন বিশেষজ্ঞ ও চক্ষু।",
     postLink: "https://www.facebook.com/AreaPhonebook/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 13,
+    photo: "../cdn/doctor-sat-down/doctor-sat-down.png",
+    name: "রাজু মেডিকেল হল এন্ড ডেন্টাল সার্জারী",
+    number: "01750044133",
+    wordNo: "৬",
+    location: "দক্ষিন নয়ামাটি",
+    detail: "বিশেষজ্ঞ ডাক্তারের চেম্বার।",
+    postLink: "https://www.facebook.com/AreaPhonebook/",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
