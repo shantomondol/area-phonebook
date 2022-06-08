@@ -561,6 +561,10 @@ const categoryData = [
     subCategory:
       [
         {
+          name: "রাজমিস্ত্রী",
+          link: "mason"
+        },
+        {
           name: "রং মিস্ত্রী",
           link: "painter"
         },
