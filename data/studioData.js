@@ -129,5 +129,16 @@ const userData = [{
         detail: "৫ মিনিটে আর্জেন্ট ছবি তোলা হয়৷ যে কোন অনুষ্ঠানে স্টিল ছবি তোলা ও ভিডিও করা হয়। যে কোন সামাজিক, পারিবারিক ও ধর্মিয় অনুষ্ঠানে স্টিল ছবি সহ ভিডিও করা হয়৷ ইভেন্ট ম্যনেজমেন্ট সহ আউটডোর স্টিল ফটোশুট ও করা হয়৷ সকল কর্মি প্রফেশনাল৷",
         postLink: "https://www.facebook.com/AreaPhonebook/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+    },
+    {
+        id: 13,
+        photo: "../cdn/studio/studio.png",
+        name: "ফটোজোন ডিজিটাল স্টুডিও ও ফটোকপি",
+        number: "01681396566",
+        wordNo: "৬",
+        location: "পাগলা হাইস্কুল সংলগ্ন",
+        detail: "photozonedigitalstudio042@gmail.com <br>৫ মিনিটে আর্জেন্ট ছবি তোলা হয়, ছবি থেকে ছবি তোলা হয়, ফটোকপি করা হয়, কম্পিউটার কম্পোজ করা হয়, লেমিনেটিং করা হয় এবং এখানে নতুন প্রিপেইড বিদ্যুত সংযোগ দেওয়া হয়।",
+        postLink: "https://www.facebook.com/AreaPhonebook/",
+        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     }
 ];
