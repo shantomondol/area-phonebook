@@ -582,7 +582,7 @@ const categoryData = [
         },
         {
           name: "তালা-চাবি মিস্ত্রী",
-          link: "motor-mechanic"
+          link: "lock-key-mechanic"
         }
       ]
   },
