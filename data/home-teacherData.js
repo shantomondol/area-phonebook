@@ -141,6 +141,17 @@ const userData = [
     detail: "Tanzidaakter24@gmail.com <br>অষ্টম, নবম ও দশম শ্রেণির বিজ্ঞান বিষয় পড়ানো হয়।",
     postLink: "https://www.facebook.com/AreaPhonebook/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 14,
+    photo: "../cdn/home-teacher/male-home-teacher.png",
+    name: "হাফিজুর রাহমান",
+    number: "01757165406",
+    wordNo: "৬",
+    location: "পাগলা, প্যারাডাইস সিটি",
+    detail: "Hafizurrahman00928@gmil.com <br>কুরআন শরীফ শিক্ষা এবং নামাজের নিয়ম এবং প্রয়োজনিয় মাসয়ালা এবং হাদিস, আরবি যে কোন বই, উুর্দ, ফার্সি পড়ানো হয়।",
+    postLink: "https://www.facebook.com/AreaPhonebook/",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
   

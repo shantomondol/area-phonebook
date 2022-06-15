@@ -116,7 +116,7 @@ const userData = [
       number: "01518348589",
       wordNo: "৫",
       location: "শাহীমহল্লা, আমতলা",
-      detail: "jakirtelecom.kazal@gmail.com <br>সমস্ত অনলাইন পরিসেবা, চাকরির আবেদন, ভর্তি আবেদন,  জন্ম সনদ, এনআইডি সংশোধন, রিচার্জ, সিম রেজিস্ট্রেশন, মোবাইল ব্যাংকিং পরিসেবা, নতুন এনআইডি নিবন্ধন আবেদন, জন্ম নিবন্ধন এবং সংশোধন আবেদন, সিভি তৈরি করা, বাংলা ও ইংরেজি রচনা করা ও অন্যান্য ইত্যাদি কাজ করা হয়।",
+      detail: "jakirtelecom.kazal@gmail.com <br>সমস্ত অনলাইন পরিসেবা, চাকরির আবেদন, ভর্তি আবেদন, জন্ম সনদ, এনআইডি সংশোধন, রিচার্জ, সিম রেজিস্ট্রেশন, মোবাইল ব্যাংকিং পরিসেবা, নতুন এনআইডি নিবন্ধন আবেদন, জন্ম নিবন্ধন এবং সংশোধন আবেদন, সিভি তৈরি করা, বাংলা ও ইংরেজি রচনা করা ও অন্যান্য ইত্যাদি কাজ করা হয়।",
       postLink: "mailto:jakirtelecom.kazal@gmail.com",
       videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"  
     },
@@ -126,8 +126,8 @@ const userData = [
       name: "হোসেন টেলিকম",
       number: "01975556364",
       wordNo: "১",
-      location: "রঘুনাথপুর,গনি-মুন্সি মার্কেট",
-      detail: "hossainnetbd6@gmail.com <br>অনলাইনের সকল কাজ করা হয়।",
+      location: "রঘুনাথপুর, গনি-মুন্সি মার্কেট",
+      detail: "hossainnetbd6@gmail.com <br>অনলাইনে পাসপোর্ট আবেদন, ছবি, প্রিন্টিং এর কাজ এবং অনলাইনের সকল কাজ করা হয়।",
       postLink: "mailto:hossainnetbd6@gmail.com",
       videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"  
     },
