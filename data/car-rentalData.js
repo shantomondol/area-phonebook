@@ -97,5 +97,16 @@ const userData = [
     detail: "mdsagor01628@gmail <br>আমাদের পরিবহনের ধারা আপনার গন্তবে ঝামেলা বিহীন পৌছে দেয়া আমাদের লক্ষ্য।<br>(নিদিষ্ট স্থানে নেয্য ভাড়া)",
     postLink: "Rahatbosd@gmail.com",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
+  {
+    id: 10,
+    photo: "../cdn/car-rental/car-rental.png",
+    name: "মায়ের দোয়া রেন্ট-এ-কার",
+    number: "01999560169",
+    wordNo: "৬",
+    location: "ইসলামিয়া-(বৌ বাজার), রেললাইন",
+    detail: "গাড়ী ভাড়া দেওয়া হয়।",
+    postLink: "https://www.facebook.com/AreaPhonebook/",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   }
 ];
