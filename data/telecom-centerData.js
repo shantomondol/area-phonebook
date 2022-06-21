@@ -162,5 +162,16 @@ const userData = [{
         detail: "বিকাশ, নগদ, রকেট, উপায়, জিপি লোড, বাংলালিংক লোড, এয়ারটেল লোড, রবি লোড ও টেলিটক লোড করা হয়। সকল প্রকার সিম বিক্রি করা হয় ও সকল প্রকার সিম রিপ্লেসমেন্ট করা যায়।",
         postLink: "https://www.facebook.com/AreaPhonebook/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+    },
+    {
+        id: 16,
+        photo: "../cdn/telecom-center/telecom-center.png",
+        name: "কনফিডেন্স টেলিকম",
+        number: "01632062839",
+        wordNo: "৬",
+        location: "পাগলা, জসিম মার্কেট, ২য় তলা",
+        detail: "rabbirahat75@gmail.com <br>মোবাইলের কভার, চার্জার, হেডফোন ও মোবাইল সার্ভিসিং করা হয় এবং মোবাইলের সকল যন্তাংস পাওয়া যায়।",
+        postLink: "https://www.facebook.com/AreaPhonebook/",
+        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     }
 ];

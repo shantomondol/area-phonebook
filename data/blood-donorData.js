@@ -305,7 +305,7 @@ const userData = [{
         detail: "রক্তদাতা <br> রক্তের গ্রুপঃ এ পজিটিভ",
         postLink: "https://www.facebook.com/AreaPhonebook/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
-    }
+    },
     {
         id: 29,
         photo: "../cdn/blood-donor/man-blood-donor.png",
@@ -315,6 +315,17 @@ const userData = [{
         location: "পূর্ব দেলপাড়া",
         detail: "রক্তদাতা <br> রক্তের গ্রুপঃ এবি পজিটিভ",
         postLink: "https://www.facebook.com/AreaPhonebook/",
+        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+    },
+    {
+        id: 30,
+        photo: "../cdn/blood-donor/man-blood-donor.png",
+        name: "Zahid Hasan",
+        number: "01750066414",
+        wordNo: "৫",
+        location: "পূর্ব রসুলপুর",
+        detail: "রক্তদাতা <br> রক্তের গ্রুপঃ বি পজিটিভ",
+        postLink: "https://www.facebook.com/zhrifad",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
 
