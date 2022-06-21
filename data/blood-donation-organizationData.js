@@ -97,5 +97,16 @@ const userData = [
     detail: "স্বেচ্ছায় রক্তদান ও সমাজসেবী সংগঠন।",
     postLink: "https://www.facebook.com/groups/bloodsquad2020/?ref=share_group_link",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&app"
-  }
+  },
+  {
+    id: 10,
+    hoto: "../cdn/blood-donation-organization/blood-donation-organization.png",
+    name: "মাতৃছায়া ব্লাড গ্রুপ",
+    number: "01719796524",
+    wordNo: "৫",
+    location: "শাহী মহল্লা ",
+    detail: "মাতৃছায়া একটি রক্তদান গ্রুপ।",
+    postLink: "Jasim.rrmgroup@gmail.com",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+},
 ];
