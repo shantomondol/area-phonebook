@@ -20,7 +20,7 @@ function userTemplate(user) {
                                     <div class="row">
                                         <span class="col-6 topic tp1"> <a href="tel:${user.number}">${user.number}</a> </span>
                                         <span class="col-6 topic tp1">ওয়ার্ড নং: ${user.wordNo}</span>
-                                        <span class="col-6 topic tp1"><a href="https://www.google.com/search?q=${user.location}" target="_blank">${user.location}</a></span>
+                                        <span class="col-6 topic tp1">ব্লাড গ্রুপ: ${user.bloodGroup}</span>
                                         <span class="col-6 topic tp4"> <a href="#${user.id}"
                                                 data-toggle="collapse">আরো দেখুন <i
                                                     class="fa fa-chevron-down"></i></a> </span>
@@ -67,28 +67,27 @@ prepareTemplateWithData(userData)
 
 
 // filter with word no
-const WORDS = {
-    '১': '১',
-    '২': '২',
-    '৩': '৩',
-    '৪': '৪',
-    '৫': '৫',
-    '৬': '৬',
-    '৬': '৭',
-    '৬': '৮',
-    '৬': '৯',
+const BLOODGROUPS = {
+    'A+': 'A+',
+    'A-': 'A-',
+    'B+': 'B+',
+    'B-': 'B-',
+    'AB+': 'AB+',
+    'AB-': 'AB-',
+    'O+': 'O+',
+    'O-': 'O-',
 }
 
-$('#word').on('change', function (e) {
+$('#bloodGroup').on('change', function (e) {
     let value = this.value;
     if (!value) {
         prepareTemplateWithData(userData)
         return
     }
 
-    if (value && Object.values(WORDS).includes(value)) {
+    if (value && Object.values(BLOODGROUPS).includes(value)) {
         let data = userData.filter(function (el) {
-            return el.wordNo == value || el.wordNo == 'সমগ্র পাগলা'
+            return el.bloodGroup == value || el.bloodGroup == 'সমগ্র পাগলা'
           });
         prepareTemplateWithData(data)
     }
