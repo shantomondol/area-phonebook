@@ -50,7 +50,7 @@ const userData = [
     number: "01677795503",
     wordNo: "৫",
     location: "শাহীবাজার, আমতলা",
-    detail: "হোমমেড ফুড কেক, পিঠা , মিষ্টি, সেমাই, পিজ্জা ইত্যাদি পাওয়া যায়।",
+    detail: "হোমমেড ফুড কেক, পিঠা, মিষ্টি, সেমাই, পিজ্জা ইত্যাদি পাওয়া যায়। হোমমেড নানা ধরনের খাবার তৈরি করা হয়।",
     postLink: "https://www.facebook.com/Aklimachoedhuryshally/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
    },
@@ -78,7 +78,7 @@ const userData = [
    },
    {
     id: 8,
-    photo: "../cdn/food/sweetbank.jpg",
+    photo: "../cdn/food/shopnochoya.jpg",
     name: "স্বপ্নছোঁয়া",
     number: "01920860964",
     wordNo: "৬",

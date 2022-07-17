@@ -23,14 +23,25 @@ const userData = [
    },
    {
       id: 3,
-      photo: "../cdn/others/shefa's-collection.png",
+      photo: "../cdn/others/sunnahpoint.jpg",
       name: "Sunnah Point /সুন্নাহ্ পয়েন্ট",
       number: "01782262822",
-      wordNo: "৫",
+      wordNo: "৬",
       location: "নয়ামাটি",
       detail: "যোগাযোগ করুনঃ- 01911800168 <br>সকল ধরনের ইসলামিক পন্যের এক অন্যান্য সমাহার পাওয়া যায়।",
       postLink: "https://www.facebook.com/Sunnahpoint2016/",
       videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
-   }
+   },
+   {
+      id: 4,
+      photo: "../cdn/others/tongarlight.jpg",
+      name: "Tong Ar light",
+      number: "01814996959",
+      wordNo: "৮",
+      location: "উত্তর নন্দলালপুর",
+      detail: "এখানে হোম ডেকোরেশনের জন্য ফেরি লাইট, নানান ধরনের ঘর সাজানোর মতো লাইট পাওয়া যায় যা আপনার ঘরের সৌন্দর্য বাড়াবে।",
+      postLink: "https://www.facebook.com/Tongarlight/",
+      videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+   },
 ];
     

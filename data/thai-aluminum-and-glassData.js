@@ -65,4 +65,15 @@ const userData = [
     postLink: "https://www.facebook.com/AreaPhonebook/",
     videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
   },
+  {
+    id: 7,
+    photo: "../cdn/thai-aluminum-and-glass/thai-aluminum-and-glass.png",
+    name: "তুহিন হোসেন পিন্টু",
+    number: "01887200125",
+    wordNo: "৫",
+    location: "চিতাশাল, মুসলিমপাাড়া",
+    detail: "থাই জানালা, গ্লাস ও অফিস ডেকোরেশন ইত্যাদি কাজ করা হয়।",
+    postLink: "https://www.facebook.com/people/%E0%A6%A4%E0%A7%81%E0%A6%B9%E0%A6%BF%E0%A6%A8-%E0%A6%B9%E0%A7%8B%E0%A6%B8%E0%A7%87%E0%A6%A8-%E0%A6%AA%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A7%81/100064204898571/",
+    videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+  },
 ];

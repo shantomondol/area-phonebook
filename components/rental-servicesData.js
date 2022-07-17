@@ -34,6 +34,12 @@ const categoryData = [
       photo: "../resources/icons/rental-services/camera-rental.png",
       name: "ক্যামেরা ভাড়া",
       link: "camera-rental"
+    },
+    {
+      id: 7,
+      photo: "../resources/icons/rental-services/internet-service.png",
+      name: "ইন্টারনেট সেবা",
+      link: "internet-service"
     }
   ];
   

@@ -78,7 +78,7 @@ const userData = [{
     {
         id: 8,
         photo: "../cdn/parlor/parlor.png",
-        name: "সোহা বিউটি ওয়ার্লড",
+        name: "সোহা বিউটি ওয়ার্ল্ড",
         number: "01681767839",
         wordNo: "৬",
         location: "পশ্চিম রসুলপুর, ভাংগাপুল মসজিদ সংলগ্ন",
@@ -99,13 +99,24 @@ const userData = [{
     },
     {
         id: 10,
-        photo: "../cdn/parlor/any's-parlour-&-training-center.jpg",
+        photo: "../cdn/parlor/womens-beauty-corner.jpg",
         name: "ওমেন্স বিউটি কর্ণার",
         number: "01617990097",
         wordNo: "৫",
         location: "নয়ামাটি, নুর-ম্যানসন",
-        detail: "বিউটি পার্লার রিলেটেড সকল সার্ভিস দেওয়া হয়। <br>(শুধু মহিলাদের জন্য) ",
+        detail: "বিউটি পার্লার রিলেটেড সকল সার্ভিস দেওয়া হয়। <br>(শুধু মহিলাদের জন্য)",
         postLink: "https://www.facebook.com/Womens-beauty-corner-105778881792131/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
-    }
+    },
+    {
+        id: 11,
+        photo: "../cdn/parlor/parlor.png",
+        name: "জেসিকা বিউটি পার্লার",
+        number: "01756815338",
+        wordNo: "৬",
+        location: "পাগলা উচ্চ বিদ্যালয় সংলগ্ন",
+        detail: "বিউটি পার্লার রিলেটেড সকল সার্ভিস দেওয়া হয়। <br>(শুধু মহিলাদের জন্য)",
+        postLink: "http://fb.com/areaPhonebook",
+        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+    },
 ];

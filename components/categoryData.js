@@ -471,6 +471,10 @@ const categoryData = [
         {
           name: "ক্যামেরা ভাড়া",
           link: "camera-rental"
+        },
+        {
+          name: "ইন্টারনেট সেবা",
+          link: "internet-service"
         }
       ]
   },

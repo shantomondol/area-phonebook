@@ -176,7 +176,7 @@ const userData = [{
     },
     {
         id: 17,
-        photo: "../cdn/blood-donor/woman-blood-donor.png",
+        photo: "../cdn/blood-donor/the-hut-organization.jpg",
         name: "শারমিন লিমা",
         number: "01643344152",
         wordNo: "৬",
@@ -347,7 +347,7 @@ const userData = [{
         wordNo: "৫",
         bloodGroup: "B+",
         detail: "শাহীবাজার কবরস্থান <br> রক্তের গ্রুপঃ বি পজিটিভ",
-        postLink: "https://www.facebook.com/zhrifad",
+        postLink: "https://www.facebook.com/AreaPhonebook/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
     {
@@ -357,8 +357,19 @@ const userData = [{
         number: "01620846518",
         wordNo: "৬",
         bloodGroup: "AB+",
-        detail: "রসুলপুর <br> simantotanvir642gmail.com<br> রক্তের গ্রুপঃ এবি পজিটিভ",
-        postLink: "https://www.facebook.com/zhrifad",
+        detail: "দেলপাড়া <br> simantotanvir642gmail.com<br> রক্তের গ্রুপঃ এবি পজিটিভ",
+        postLink: "https://www.facebook.com/AreaPhonebook/",
+        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
+    },
+    {
+        id: 34,
+        photo: "../cdn/blood-donor/woman-blood-donor.png",
+        name: "Chahat Jannat",
+        number: "01706325855",
+        wordNo: "৬",
+        bloodGroup: "O+",
+        detail: "রসুলপুর <br> Sabrinatuli1991@gmail<br> রক্তের গ্রুপঃ ও পজিটিভ",
+        postLink: "https://www.facebook.com/AreaPhonebook/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
 
