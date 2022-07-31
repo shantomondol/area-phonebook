@@ -174,17 +174,15 @@ const userData = [{
         postLink: "https://www.facebook.com/AreaPhonebook/",
         videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
     },
-    {
-        id: 17,
-        photo: "../cdn/blood-donor/the-hut-organization.jpg",
-        name: "শারমিন লিমা",
-        number: "01643344152",
-        wordNo: "৬",
-        bloodGroup: "O-",
-        detail: "নয়ামাটি<br> রক্তের গ্রুপঃ ও নেগেটিভ",
-        postLink: "https://www.facebook.com/profile.php?id=100027844188769",
-        videoLink: "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyiralcrazy%2Fvideos%2F614052535735551%2F&width=500&show_text=false&height=280&appId"
-    },
+    
+
+
+
+
+
+
+
+
     {
         id: 18,
         photo: "../cdn/blood-donor/man-blood-donor.png",
