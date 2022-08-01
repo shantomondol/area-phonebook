@@ -241,24 +241,20 @@ const categoryData = [
           link: "super-shop"
         },
         {
-          name: "মিনি সুপার শপ",
-          link: "mini-super-shop"
-        },
-        {
           name: "পাইকারী দোকান",
           link: "wholesale-store"
-        }, 
-        {
-          name: "ডিলার পয়েন্ট",
-          link: "dealer-points"
         },
         {
-          name: "কনফেকশনারী",
-          link: "confectionary"
+          name: "লাইব্রেরি",
+          link: "library"
         },
+        // {
+        //   name: "ডিলার পয়েন্ট",
+        //   link: "dealer-points"
+        // },
         {
-          name: "বেকারি",
-          link: "bakery"
+          name: "কনফেকশনারী / বেকারি",
+          link: "confectionary-and-bakery"
         },
         {
           name: "মশলার দোকান",
@@ -273,16 +269,8 @@ const categoryData = [
           link: "flower-shop"
         },
         {
-          name: "ফলের দোকান",
-          link: "fruit-shop"
-        },
-        {
           name: "টেলিকম সেন্টার",
           link: "telecom-center"
-        },
-        {
-          name: "মিষ্টির দোকান",
-          link: "sweet-shop"
         },
         {
           name: "জুয়েলার্স",
@@ -300,14 +288,6 @@ const categoryData = [
           name: "ফার্নিচার",
           link: "furniture"
         },
-        {
-          name: "লাইব্রেরি",
-          link: "library"
-        }, 
-        {
-          name: "বাদ্যযন্ত্র সমূহ",
-          link: "musical-instruments"
-        }
       ]
   },
   {

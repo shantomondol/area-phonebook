@@ -23,7 +23,8 @@ function userTemplate(user) {
                                         <span class="col-6 topic tp1"><a href="https://www.google.com/search?q=${user.location}" target="_blank">${user.location}</a></span>
                                         <span class="col-6 topic tp4"> <a href="#${user.id}"
                                                 data-toggle="collapse">আরো দেখুন <i
-                                                    class="fa fa-chevron-down"></i></a> </span>
+                                                    class="fa fa-chevron-down"></i></a>
+                                        </span>
                                     </div>                                                
                                 </div>
                                 <div class="align-self-center">
