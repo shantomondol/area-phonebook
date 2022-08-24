@@ -1,4 +1,4 @@
-const categoryData = [  
+8const categoryData = [  
   {
     id: 1,
     photo: "../resources/icons/kutubpur-union.png",
@@ -195,10 +195,6 @@ const categoryData = [
     pageLink: "food-corner_food-store",
     subCategory:
       [
-        {
-          name: "হোটেল",
-          link: "hotel"
-        },
         {
           name: "রেস্টুরেন্ট",
           link: "restaurant"
