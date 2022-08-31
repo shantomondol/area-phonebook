@@ -1,4 +1,4 @@
-8const categoryData = [  
+const categoryData = [  
   {
     id: 1,
     photo: "../resources/icons/kutubpur-union.png",
