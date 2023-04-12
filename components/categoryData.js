@@ -1,78 +1,78 @@
 const categoryData = [  
-  {
-    id: 1,
-    photo: "../resources/icons/kutubpur-union.png",
-    name: "আমাদের কুতুবপুর",
-    pageLink: "our-kutubpur",
-    subCategory:
-      [        
-        {
-          name: "ইউনিয়নের ইতিহাস",
-          link: "union-history"
-        },
-        {
-          name: "ইউনিয়ন পরিচিতি",
-          link: "union-introduction"
-        },
-        {
-          name: "গ্রামভিত্তিক লোকসংখ্যা",
-          link: "village-based-population"
-        },
-        {
-          name: "যোগাযোগ ব্যবস্থা",
-          link: "communication-system"
-        },
-        {
-          name: "গ্রামসমূহের তালিকা",
-          link: "list-of-villages"
-        },
-        {
-          name: "মানচিত্রে ইউনিয়ন",
-          link: "union-on-the-map"
-        },
-        {
-          name: "খাল ও নদী",
-          link: "canals-and-rivers"
-        },
-        {
-          name: "হাট বাজার",
-          link: "hat-bazaar"
-        },
-        {
-          name: "দর্শনীয় স্থান",
-          link: "places-of-interest"
-        },
-        {
-          name: "প্রখ্যাত ব্যক্তিত্ব",
-          link: "eminent-personalities"
-        },
-        {
-          name: "মুক্তিযোদ্ধা",
-          link: "freedom-fighters"
-        }
-      ]
-  },  
-  {
-    id: 2,
-    photo: "../resources/icons/train-time-table.png",
-    name: "বর্তমান ট্রেনের সময়সূচি",
-    pageLink: "current-train-schedule",
-    subCategory:
-      [
-        {
-          name: "ঢাকা - নারায়ণগঞ্জ",
-          link: "dhaka-narayanganj-train"
-        },
-        {
-          name: "পূর্বাঞ্চল",
-          link: "eastern-train"
-        },
-        {
-          name: "পশ্চিমাঞ্চল",
-          link: "western-train"
-        }
-      ]
-  },
+  // {
+  //   id: 1,
+  //   photo: "../resources/icons/kutubpur-union.png",
+  //   name: "আমাদের কুতুবপুর",
+  //   pageLink: "our-kutubpur",
+  //   subCategory:
+  //     [        
+  //       {
+  //         name: "ইউনিয়নের ইতিহাস",
+  //         link: "union-history"
+  //       },
+  //       {
+  //         name: "ইউনিয়ন পরিচিতি",
+  //         link: "union-introduction"
+  //       },
+  //       {
+  //         name: "গ্রামভিত্তিক লোকসংখ্যা",
+  //         link: "village-based-population"
+  //       },
+  //       {
+  //         name: "যোগাযোগ ব্যবস্থা",
+  //         link: "communication-system"
+  //       },
+  //       {
+  //         name: "গ্রামসমূহের তালিকা",
+  //         link: "list-of-villages"
+  //       },
+  //       {
+  //         name: "মানচিত্রে ইউনিয়ন",
+  //         link: "union-on-the-map"
+  //       },
+  //       {
+  //         name: "খাল ও নদী",
+  //         link: "canals-and-rivers"
+  //       },
+  //       {
+  //         name: "হাট বাজার",
+  //         link: "hat-bazaar"
+  //       },
+  //       {
+  //         name: "দর্শনীয় স্থান",
+  //         link: "places-of-interest"
+  //       },
+  //       {
+  //         name: "প্রখ্যাত ব্যক্তিত্ব",
+  //         link: "eminent-personalities"
+  //       },
+  //       {
+  //         name: "মুক্তিযোদ্ধা",
+  //         link: "freedom-fighters"
+  //       }
+  //     ]
+  // },  
+  // {
+  //   id: 2,
+  //   photo: "../resources/icons/train-time-table.png",
+  //   name: "বর্তমান ট্রেনের সময়সূচি",
+  //   pageLink: "current-train-schedule",
+  //   subCategory:
+  //     [
+  //       {
+  //         name: "ঢাকা - নারায়ণগঞ্জ",
+  //         link: "dhaka-narayanganj-train"
+  //       },
+  //       {
+  //         name: "পূর্বাঞ্চল",
+  //         link: "eastern-train"
+  //       },
+  //       {
+  //         name: "পশ্চিমাঞ্চল",
+  //         link: "western-train"
+  //       }
+  //     ]
+  // },
   {
     id: 3,
     photo: "../resources/icons/emergency-services.png",
@@ -731,39 +731,39 @@ const categoryData = [
         }
       ]
   },
-  {
-    id: 21,
-    photo: "../resources/icons/cyber-bullying.png",
-    name: "সাইবার বুলিং / ভোক্তা অধিকার",
-    pageLink: "cyber-bullying-and-consumer-rights",
-    subCategory:
-      [
-        {
-          name: "সাইবার রুলস",
-          link: "cyber-rules"
-        },
-        {
-          name: "ভোক্তা অধিকার",
-          link: "consumer-rights"
-        },
-        {
-          name: "অভিযোগ এর নিয়ম",
-          link: "rules-of-complaint"
-        },
-        {
-          name: "ভোক্তা অধিকার আইন",
-          link: "consumer-rights-act"
-        },
-        {
-          name: "অভিযোগ বক্স",
-          link: "complaint-box"
-        },
-        {
-          name: "ভোক্তা অধিকার নিয়ম",
-          link: "consumer-rights-rules"
-        }
-      ]
-  },
+  // {
+  //   id: 21,
+  //   photo: "../resources/icons/cyber-bullying.png",
+  //   name: "সাইবার বুলিং / ভোক্তা অধিকার",
+  //   pageLink: "cyber-bullying-and-consumer-rights",
+  //   subCategory:
+  //     [
+  //       {
+  //         name: "সাইবার রুলস",
+  //         link: "cyber-rules"
+  //       },
+  //       {
+  //         name: "ভোক্তা অধিকার",
+  //         link: "consumer-rights"
+  //       },
+  //       {
+  //         name: "অভিযোগ এর নিয়ম",
+  //         link: "rules-of-complaint"
+  //       },
+  //       {
+  //         name: "ভোক্তা অধিকার আইন",
+  //         link: "consumer-rights-act"
+  //       },
+  //       {
+  //         name: "অভিযোগ বক্স",
+  //         link: "complaint-box"
+  //       },
+  //       {
+  //         name: "ভোক্তা অধিকার নিয়ম",
+  //         link: "consumer-rights-rules"
+  //       }
+  //     ]
+  // },
   {
     id: 22,
     photo: "../resources/icons/civic-service.png",
@@ -809,35 +809,35 @@ const categoryData = [
         }
       ]
   },
-  {
-    id: 23,
-    photo: "../resources/icons/service-organization.png",
-    name: "সেবামূলক সংগঠন",
-    pageLink: "service-organization",
-    subCategory:
-      [
-        {
-          name: "সংগঠনের তালিকা",
-          link: "list-of-organization"
-        },
-        {
-          name: "সামাজিক সংগঠন",
-          link: "social-organization"
-        },
-        {
-          name: "ক্রীড়া সংগঠন",
-          link: "sports-organizations"
-        },
-        {
-          name: "রক্তদান সংগঠন",
-          link: "blood-donation-organization"
-        },
-        {
-          name: "অনুষ্ঠান সঞ্চালনা",
-          link: "performing-the-ceremony"
-        }
-      ]
-  },
+  // {
+  //   id: 23,
+  //   photo: "../resources/icons/service-organization.png",
+  //   name: "সেবামূলক সংগঠন",
+  //   pageLink: "service-organization",
+  //   subCategory:
+  //     [
+  //       {
+  //         name: "সংগঠনের তালিকা",
+  //         link: "list-of-organization"
+  //       },
+  //       {
+  //         name: "সামাজিক সংগঠন",
+  //         link: "social-organization"
+  //       },
+  //       {
+  //         name: "ক্রীড়া সংগঠন",
+  //         link: "sports-organizations"
+  //       },
+  //       {
+  //         name: "রক্তদান সংগঠন",
+  //         link: "blood-donation-organization"
+  //       },
+  //       {
+  //         name: "অনুষ্ঠান সঞ্চালনা",
+  //         link: "performing-the-ceremony"
+  //       }
+  //     ]
+  // },
   {
     id: 24,
     photo: "../resources/icons/materials-under-construction.png",
@@ -925,31 +925,31 @@ const categoryData = [
         }
       ]
   },
-  {
-    id: 27,
-    photo: "../resources/icons/religious-place.png",
-    name: "ধর্মীয় স্থান",
-    pageLink: "religious-place",
-    subCategory:
-      [
-        {
-          name: "মসজিদ",
-          link: "mosque"
-        },
-        {
-          name: "মন্দির",
-          link: "temple"
-        },
-        {
-          name: "গির্জা",
-          link: "church"
-        },
-        {
-          name: "কবরস্থান",
-          link: "cemetery"
-        }
-      ]
-  },
+  // {
+  //   id: 27,
+  //   photo: "../resources/icons/religious-place.png",
+  //   name: "ধর্মীয় স্থান",
+  //   pageLink: "religious-place",
+  //   subCategory:
+  //     [
+  //       {
+  //         name: "মসজিদ",
+  //         link: "mosque"
+  //       },
+  //       {
+  //         name: "মন্দির",
+  //         link: "temple"
+  //       },
+  //       {
+  //         name: "গির্জা",
+  //         link: "church"
+  //       },
+  //       {
+  //         name: "কবরস্থান",
+  //         link: "cemetery"
+  //       }
+  //     ]
+  // },
   {
     id: 28,
     photo: "../resources/icons/tourist-spot.png",
