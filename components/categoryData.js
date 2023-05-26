@@ -167,10 +167,6 @@ const categoryData = [
         {
           name: "লাইব্রেরি",
           link: "library"
-        },
-        {
-          name: "শিক্ষা প্রতিষ্ঠানের সকল সেবা",
-          link: "all-services-of-educational-institutions"
         }
       ]
   },
