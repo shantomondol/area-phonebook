@@ -1,11 +1,87 @@
 const categoryData = [  
 
-
-  
+  {
+    id: 1,
+    photo: "../resources/icons/kutubpur-union.png",
+    name: "জনগণ",
+    pageLink: "our-kutubpur",
+    subCategory:
+      [        
+        {
+          name: "ইউনিয়নের ইতিহাস",
+          link: "union-history"
+        },
+        {
+          name: "ইউনিয়ন পরিচিতি",
+          link: "union-introduction"
+        },
+        {
+          name: "গ্রামভিত্তিক লোকসংখ্যা",
+          link: "village-based-population"
+        },
+        {
+          name: "যোগাযোগ ব্যবস্থা",
+          link: "communication-system"
+        },
+        {
+          name: "গ্রামসমূহের তালিকা",
+          link: "list-of-villages"
+        },
+        {
+          name: "মানচিত্রে ইউনিয়ন",
+          link: "union-on-the-map"
+        },
+        {
+          name: "খাল ও নদী",
+          link: "canals-and-rivers"
+        },
+        {
+          name: "হাট বাজার",
+          link: "hat-bazaar"
+        },
+        {
+          name: "দর্শনীয় স্থান",
+          link: "places-of-interest"
+        },
+        {
+          name: "প্রখ্যাত ব্যক্তিত্ব",
+          link: "eminent-personalities"
+        },
+        {
+          name: "মুক্তিযোদ্ধা",
+          link: "freedom-fighters"
+        }
+      ]
+  }, 
+  {
+    id: 14,
+    photo: "../resources/icons/area-based-online-service/news.png",
+    name: "নিউজ",
+    pageLink: "studio-computer-shop",
+    subCategory:
+      [
+        {
+          name: "স্টুডিও",
+          link: "studio"
+        },
+        {
+          name: "ক্যামেরাম্যান",
+          link: "cameraman"
+        },
+        {
+          name: "কম্পিউটার দোকান",
+          link: "computer-shop"
+        },
+        {
+          name: "প্রিন্টিং প্রেস",
+          link: "printing-press"
+        }
+      ]
+  }, 
   {
     id: 5,
     photo: "../resources/icons/medical-services.png",
-    name: "চিকিৎসা সেবা",
+    name: "চিকিৎসা",
     pageLink: "medical-services",
     subCategory:
       [
@@ -58,7 +134,7 @@ const categoryData = [
   {
     id: 6,
     photo: "../resources/icons/food-corner_food-store.png",
-    name: "ফুড কর্নার",
+    name: "ফুড",
     pageLink: "food-corner_food-store",
     subCategory:
       [
@@ -97,50 +173,54 @@ const categoryData = [
       ]
   },
   {
-    id: 7,
-    photo: "../resources/icons/shop.png",
-    name: "দোকান",
-    pageLink: "shop",
+    id: 10,
+    photo: "../resources/icons/servicing-center.png",
+    name: "সার্ভিসিং",
+    pageLink: "servicing-center",
     subCategory:
-      [
+      [          
         {
-          name: "সুপার শপ",
-          link: "super-shop"
+          name: "মোবাইল সার্ভিসিং",
+          link: "mobile-servicing"
         },
         {
-          name: "পাইকারী দোকান",
-          link: "wholesale-store"
+          name: "এসি / ফ্রিজ সার্ভিসিং",
+          link: "ac-fridge-servicing"
         },
         {
-          name: "লাইব্রেরি",
-          link: "library"
+          name: "কম্পিউটার সার্ভিসিং",
+          link: "computer-servicing"
         },
         {
-          name: "কনফেকশনারী",
-          link: "confectionary-and-bakery"
+          name: "টিভি সার্ভিসিং",
+          link: "tv-servicing"
         },
         {
-          name: "টেইলার্স এন্ড ফেব্রিক্স",
-          link: "tailors-and-fabrics"
-        },  
-        {
-          name: "ফুলের দোকান",
-          link: "flower-shop"
+          name: "ইলেক্টিক সার্ভিসিং",
+          link: "electric-servicing"
         },
         {
-          name: "জুয়েলার্স",
-          link: "jewelers"
+          name: "সাইকেল সার্ভিসিং",
+          link: "cycle-servicing"
         },
         {
-          name: "ফার্নিচার",
-          link: "furniture"
+          name: "বাইক সার্ভিসিং",
+          link: "bikes-servicing"
         },
+        {
+          name: "গাড়ি সার্ভিসিং",
+          link: "car-servicing"
+        },
+        {
+          name: "সেলাই মেশিন সার্ভিসিং",
+          link: "sewing-machine-servicing"
+        }
       ]
   },
   {
     id: 8,
     photo: "../resources/icons/education-services.png",
-    name: "শিক্ষা সেবা",
+    name: "শিক্ষা",
     pageLink: "education-services",
     subCategory:
       [
@@ -167,13 +247,17 @@ const categoryData = [
         {
           name: "লাইব্রেরি",
           link: "library"
+        },
+        {
+          name: "শিক্ষা প্রতিষ্ঠানের সকল সেবা",
+          link: "all-services-of-educational-institutions"
         }
       ]
   },
   {
     id: 9,
     photo: "../resources/icons/training-center.png",
-    name: "প্রশিক্ষণ কেন্দ্র",
+    name: "প্রশিক্ষণ",
     pageLink: "training-center",
     subCategory:
       [
@@ -219,55 +303,65 @@ const categoryData = [
         }
       ]
   },
+
   {
-    id: 10,
-    photo: "../resources/icons/servicing-center.png",
-    name: "সার্ভিসিং সেন্টার",
-    pageLink: "servicing-center",
+    id: 12,
+    photo: "../resources/icons/parlor-salon.png",
+    name: "সৌন্দর্য",
+    pageLink: "parlor-salon",
     subCategory:
-      [          
+      [
         {
-          name: "মোবাইল সার্ভিসিং",
-          link: "mobile-servicing"
+          name: "পার্লার",
+          link: "parlor"
         },
         {
-          name: "এসি / ফ্রিজ সার্ভিসিং",
-          link: "ac-fridge-servicing"
+          name: "সেলুন",
+          link: "salon"
         },
         {
-          name: "কম্পিউটার সার্ভিসিং",
-          link: "computer-servicing"
+          name: "মেহেদি হাউজ",
+          link: "mehedi-house"
         },
         {
-          name: "টিভি সার্ভিসিং",
-          link: "tv-servicing"
+          name: "কসমিটিক্স এর দোকান",
+          link: "cosmetics-shop"
+        }
+      ]
+  },
+  {
+    id: 13,
+    photo: "../resources/icons/area-based-online-service.png",
+    name: "ই-কমার্স",
+    pageLink: "area-based-online-service",
+    subCategory:
+      [
+        {
+          name: "নিউজ",
+          link: "news"
         },
         {
-          name: "ইলেক্টিক সার্ভিসিং",
-          link: "electric-servicing"
+          name: "ফুড",
+          link: "food"
         },
         {
-          name: "সাইকেল সার্ভিসিং",
-          link: "cycle-servicing"
+          name: "কাপড়",
+          link: "clothes"
         },
         {
-          name: "বাইক সার্ভিসিং",
-          link: "bikes-servicing"
+          name: "কসমেটিক্স",
+          link: "cosmetics"
         },
         {
-          name: "গাড়ি সার্ভিসিং",
-          link: "car-servicing"
-        },
-        {
-          name: "সেলাই মেশিন সার্ভিসিং",
-          link: "sewing-machine-servicing"
+          name: "অন্যান্য",
+          link: "others"
         }
       ]
   },
   {
     id: 11,
     photo: "../resources/icons/rental-services.png",
-    name: "ভাড়া সেবা",
+    name: "ভাড়া",
     pageLink: "rental-services",
     subCategory:
       [
@@ -302,159 +396,19 @@ const categoryData = [
       ]
   },
   {
-    id: 12,
-    photo: "../resources/icons/parlor-salon.png",
-    name: "সৌন্দর্য ও ব্যক্তিগত যত্ন",
-    pageLink: "parlor-salon",
+    id: 18,
+    photo: "../resources/icons/shop/cash-on-delivery.png",
+    name: "বেচা-কেনা",
+    pageLink: "gift-corner",
     subCategory:
       [
         {
-          name: "পার্লার",
-          link: "parlor"
+          name: "গিফট এর দোকান",
+          link: "gift-shop"
         },
         {
-          name: "সেলুন",
-          link: "salon"
-        },
-        {
-          name: "মেহেদি হাউজ",
-          link: "mehedi-house"
-        },
-        {
-          name: "কসমিটিক্স এর দোকান",
-          link: "cosmetics-shop"
-        }
-      ]
-  },
-  {
-    id: 13,
-    photo: "../resources/icons/area-based-online-service.png",
-    name: "ডিজিটাল সেবা",
-    pageLink: "area-based-online-service",
-    subCategory:
-      [
-        {
-          name: "স্টুডিও",
-          link: "studio"
-        },
-        {
-          name: "ক্যামেরাম্যান",
-          link: "cameraman"
-        },
-        {
-          name: "কম্পিউটার দোকান",
-          link: "computer-shop"
-        },
-        {
-          name: "প্রিন্টিং প্রেস",
-          link: "printing-press"
-        }
-      ]
-  },
-  
-
-  {
-    id: 15,
-    photo: "../resources/icons/mechanic.png",
-    name: "মিস্ত্রী",
-    pageLink: "mechanic",
-    subCategory:
-      [
-        {
-          name: "রাজমিস্ত্রী",
-          link: "mason"
-        },
-        {
-          name: "রং মিস্ত্রী",
-          link: "painter"
-        },
-        {
-          name: "কাঠ মিস্ত্রী",
-          link: "carpenter"
-        },
-        {
-          name: "ইলেকট্রিক মিস্ত্রী",
-          link: "electric-mechanic"
-        },
-        {
-          name: "মোটর মিস্ত্রী",
-          link: "motor-mechanic"
-        },
-        {
-          name: "তালা-চাবি মিস্ত্রী",
-          link: "lock-key-mechanic"
-        }
-      ]
-  },
-  {
-    id: 16,
-    photo: "../resources/icons/transportation-services.png",
-    name: "পরিবহন সেবা",
-    pageLink: "transportation-services",
-    subCategory:
-      [
-        {
-          name: "বাস",
-          link: "bus"
-        },
-        {
-          name: "কুরিয়ার সার্ভিস",
-          link: "courier-service"
-        },
-        {
-          name: "পেট্রোল পাম্প",
-          link: "petrol-pump"
-        },
-        {
-          name: "রেন্ট এ কার",
-          link: "rent-a-car"
-        },
-        {
-          name: "পিকাপ",
-          link: "pickup"
-        },
-        {
-          name: "ট্রাক",
-          link: "truck"
-        },
-        {
-          name: "ডিস্টিক ট্রাক",
-          link: "district-truck"
-        },
-        {
-          name: "সিএনজি",
-          link: "cng"
-        },
-        {
-          name: "ভ্যান গাড়ি",
-          link: "van"
-        },
-        {
-          name: "জলযান",
-          link: "watercraft"
-        }
-      ]
-  },
-
-  
-  {
-    id: 19,
-    photo: "../resources/icons/decorator.png",
-    name: "ডেকোরেটর",
-    pageLink: "decorator",
-    subCategory:
-      [
-        {
-          name: "ডেকোরেটরস",
-          link: "decorators"
-        },
-        {
-          name: "বাবুর্চি",
-          link: "chef"
-        },
-        {
-          name: "কমিউনিটি সেন্টার",
-          link: "community-center"
+          name: "লাইব্রেরি",
+          link: "library"
         },
         {
           name: "ফুলের দোকান",
@@ -463,98 +417,6 @@ const categoryData = [
       ]
   },
 
-  {
-    id: 22,
-    photo: "../resources/icons/civic-service.png",
-    name: "নাগরিক সেবা",
-    pageLink: "civic-service",
-    subCategory:
-      [
-        {
-          name: "দলিল লেখক",
-          link: "author-of-the-document"
-        },
-        {
-          name: "আইনজীবী",
-          link: "lawyer"
-        },
-        {
-          name: "ইউনিয়ন অফিস",
-          link: "union-office"
-        },
-        {
-          name: "চেয়ারম্যান-মেম্বার",
-          link: "chairman-member"
-        },
-        {
-          name: "ভোটার অফিস",
-          link: "voter-office"
-        },
-        {
-          name: "ভূমি অফিস",
-          link: "land-office"
-        },
-        {
-          name: "কাজী অফিস",
-          link: "kazi-office"
-        },
-        {
-          name: "পোস্ট মাস্টার",
-          link: "postmaster"
-        },
-        {
-          name: "কবরস্থান",
-          link: "cemetery"
-        }
-      ]
-  },
 
-  {
-    id: 30,
-    photo: "../resources/icons/land-development.png",
-    name: "ল্যান্ড ডেভেলপমেন্ট",
-    pageLink: "land-development",
-    subCategory:
-      [
-        {
-          name: "জমি বিক্রি",
-          link: "land-for-sale"
-        },
-        {
-          name: "জমি বুকিং",
-          link: "land-booking"
-        },
-        {
-          name: "ফ্লাট বিক্রি",
-          link: "flats-for-sale"
-        },
-        {
-          name: "ইট, বালি ও সিমেন্ট",
-          link: "brick-sand-and-cement"
-        },
-        {
-          name: "রডের দোকান",
-          link: "rod-shop"
-        },
-        {
-          name: "কন্ট্রাক্টর",
-          link: "contractor"
-        },
-        {
-          name: "এন্টারপ্রাইজ",
-          link: "enterprise"
-        },
-        {
-          name: "কনস্ট্রাকশন ইঞ্জিনিয়ারিং",
-          link: "construction-engineering"
-        },
-        {
-          name: "হোম ডেকোর",
-          link: "home-decor"
-        }
-        
-      ]
-  },
-  
 ];
   
