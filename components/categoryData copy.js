@@ -999,7 +999,8 @@ const categoryData = [
   //         link: "auto-stand"
   //       }
   //     ]
-  // },
+  // }
+  ,
   {
     id: 30,
     photo: "../resources/icons/land-development.png",
