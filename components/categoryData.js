@@ -8,48 +8,16 @@ const categoryData = [
     subCategory:
       [        
         {
-          name: "ইউনিয়নের ইতিহাস",
-          link: "union-history"
+          name: "শহরের জনসংখ্যা",
+          link: "population-of-the-city"
         },
         {
-          name: "ইউনিয়ন পরিচিতি",
-          link: "union-introduction"
+          name: "সরকারি কর্মকর্তা",
+          link: "government-officials"
         },
         {
-          name: "গ্রামভিত্তিক লোকসংখ্যা",
-          link: "village-based-population"
-        },
-        {
-          name: "যোগাযোগ ব্যবস্থা",
-          link: "communication-system"
-        },
-        {
-          name: "গ্রামসমূহের তালিকা",
-          link: "list-of-villages"
-        },
-        {
-          name: "মানচিত্রে ইউনিয়ন",
-          link: "union-on-the-map"
-        },
-        {
-          name: "খাল ও নদী",
-          link: "canals-and-rivers"
-        },
-        {
-          name: "হাট বাজার",
-          link: "hat-bazaar"
-        },
-        {
-          name: "দর্শনীয় স্থান",
-          link: "places-of-interest"
-        },
-        {
-          name: "প্রখ্যাত ব্যক্তিত্ব",
-          link: "eminent-personalities"
-        },
-        {
-          name: "মুক্তিযোদ্ধা",
-          link: "freedom-fighters"
+          name: "পুলিশ",
+          link: "police"
         }
       ]
   }, 
@@ -61,20 +29,52 @@ const categoryData = [
     subCategory:
       [
         {
-          name: "স্টুডিও",
-          link: "studio"
+          name: "সাংবাদিকগন",
+          link: "journalists"
         },
         {
-          name: "ক্যামেরাম্যান",
-          link: "cameraman"
+          name: "সকল খবর",
+          link: "all-news"
         },
         {
-          name: "কম্পিউটার দোকান",
-          link: "computer-shop"
+          name: "মতামত",
+          link: "opinion"
         },
         {
-          name: "প্রিন্টিং প্রেস",
-          link: "printing-press"
+          name: "রাজনীতি",
+          link: "politics"
+        },
+        {
+          name: "বাণিজ্য",
+          link: "business"
+        },
+        {
+          name: "খেলাধুলা",
+          link: "sports"
+        },
+        {
+          name: "শিক্ষা",
+          link: "education"
+        },
+        {
+          name: "প্রযুক্তি",
+          link: "tech"
+        },
+        {
+          name: "স্বাস্থ্য",
+          link: "health"
+        },
+        {
+          name: "বিনোদন",
+          link: "entertainment"
+        },
+        {
+          name: "আন্তর্জাতিক",
+          link: "international"
+        },
+        {
+          name: "অন্যান্য খবর",
+          link: "others-news"
         }
       ]
   }, 
@@ -92,10 +92,6 @@ const categoryData = [
         {
           name: "ফার্মেসী",
           link: "pharmacy"
-        },
-        {
-          name: "পাইকারি মেডিসিন",
-          link: "wholesale-medicine"
         },
         {
           name: "হাসপাতাল",
@@ -161,14 +157,6 @@ const categoryData = [
         {
           name: "কেক ঘর",
           link: "cake-house"
-        },
-        {
-          name: "মিষ্টির দোকান",
-          link: "sweet-shop"
-        },
-        {
-          name: "ফলের দোকান",
-          link: "fruit-shop"
         }
       ]
   },
@@ -416,7 +404,27 @@ const categoryData = [
         }
       ]
   },
-
+  {
+    id: 99,
+    photo: "../resources/icons/training-center/skill-training.png",
+    name: "চাকরি",
+    pageLink: "gift-corner",
+    subCategory:
+      [
+        {
+          name: "গিফট এর দোকান",
+          link: "gift-shop"
+        },
+        {
+          name: "লাইব্রেরি",
+          link: "library"
+        },
+        {
+          name: "ফুলের দোকান",
+          link: "flower-shop"
+        }
+      ]
+  },
 
 ];
   
