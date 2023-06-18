@@ -163,7 +163,7 @@ const categoryData = [
   {
     id: 10,
     photo: "../resources/icons/servicing-center.png",
-    name: "সার্ভিসিং",
+    name: "সার্ভিস",
     pageLink: "servicing-center",
     subCategory:
       [          
