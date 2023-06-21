@@ -1,6 +1,6 @@
 function userTemplate(user) {
     return `
-  <div class="col-xl-4 col-md-12">
+  <div class="col-12">
         <div class="card">
             <div class="card-header">
                 <div class="overflow-hidden">
