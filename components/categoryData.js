@@ -3,7 +3,7 @@ const categoryData = [
   {
     id: 1,
     photo: "../resources/icons/kutubpur-union.png",
-    name: "জনগণ",
+    name: "পেশাজীবী",
     pageLink: "our-kutubpur",
     subCategory:
       [        
@@ -24,7 +24,7 @@ const categoryData = [
   {
     id: 14,
     photo: "../resources/icons/area-based-online-service/news.png",
-    name: "নিউজ",
+    name: "খবর",
     pageLink: "studio-computer-shop",
     subCategory:
       [
